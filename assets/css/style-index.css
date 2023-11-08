@@ -1,0 +1,21 @@
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+.service-wrapper {
+  background-color: #fafbff;
+  border: 0.3px solid #eaeef7;
+  transition: all 0.4s;
+}
+
+.service-wrapper:hover {
+  background-color: white;
+  box-shadow: 0 0 50px rgba(0 0 0 / 0.05);
+}
+
+.service-wrapper p {
+  color: #647397;
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
